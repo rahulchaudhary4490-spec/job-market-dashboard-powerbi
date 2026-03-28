@@ -1,22 +1,42 @@
-📊 Job Market Analysis Dashboard
-🔍 Project Overview
+# 📊 Job Market Analysis Dashboard
 
-Analyzed 61,000+ job postings to identify:
+## 🔍 Overview
+This project analyzes 61,000+ job postings to understand:
+- Skill demand  
+- Salary trends  
+- Hiring companies  
 
-Most in-demand skills
-Highest paying skills
-Top hiring companies
-🛠 Tools Used
-Python (Pandas)
-SQL
-Power BI
-📈 Key Insights
-SQL is the most in-demand skill
-Python has the highest average salary (~105K)
-Excel is widely used but lower paying
-Dataset contains only remote jobs
-📁 Files
-Python analysis script
-Cleaned dataset
-SQL queries
-Power BI dashboard screenshots
+---
+
+## 🛠 Tools Used
+- Python (Pandas)  
+- SQL  
+- Power BI  
+
+---
+
+## 📈 Key Insights
+- SQL is the most in-demand skill  
+- Python offers highest average salary (~105K)  
+- Excel is widely used but lower paying  
+- Dataset contains only remote jobs  
+
+---
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard_image.jpeg)
+
+---
+
+## 🗄 SQL Queries
+![SQL Query 1](sql_querry1.jpeg)  
+![SQL Query 2](sql_querry2.jpeg)  
+![SQL Query 3](sql_querry3.jpeg)
+
+---
+
+## 📁 Files
+- Python analysis script  
+- Cleaned dataset  
+- SQL queries  
+- Power BI dashboard  
